@@ -57,7 +57,7 @@ That’s where we come in.
 - **Personalized Dashboard**  
   All saved posts, filtered by urgency, category, or platform.
 
-- * Resource-Savvy**  
+- **Resource-Savvy**  
   Save and retrieve blogs, tutorials, videos, and more.
 
 ## 🔮 What's Next?
@@ -73,9 +73,9 @@ That’s where we come in.
 
 
 ## ⚡ Team Behind It
--Juhi Khanna
--Bhumika
--Dishita Pokharna
+- **Juhi Khanna**
+- **Bhumika**
+- **Dishita Pokharna**
 
 Built with 💜, frustration, and a mission to never miss another opportunity again.  
 We’re just getting started.
