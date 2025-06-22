@@ -69,6 +69,19 @@ That’s where we come in.
 
 
 ## 📸 Sneak Peek
+###  Dashboard View
+![Dashboard](https://github.com/Dishita-Pokharna1/Stash/blob/main/dashboard.jpeg)
+
+###  Profile and Trends
+![Profile](https://github.com/Dishita-Pokharna1/Stash/blob/main/profile.jpeg)
+
+###  Reminder Notifications
+![Reminders](https://github.com/Dishita-Pokharna1/Stash/blob/main/reminders.jpeg)
+
+###  Smart Sorting Feature
+![Smart Sort](https://github.com/Dishita-Pokharna1/Stash/blob/main/smart%20sort.jpeg)
+
+---
 
 
 
