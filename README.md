@@ -19,14 +19,11 @@ Traditional bookmarking tools don't:
 - Offer productivity dashboards
 
 That’s where we come in.
-**Demo Video — See It in Action**
+
+## **Demo Video — See It in Action**
 Watch how STASH turns chaos into opportunity gold.  
 From saving a post to setting a reminder, it’s all smooth, smart, and satisfying.  
-
-<video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/Dishita-Pokharna1/Stash/main/Stash%20.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+ [Click here to watch the demo video on Google Drive](https://drive.google.com/file/d/1JqNEECF7ZbnMluQU8Bin31tgmOSr1USH/view))
 
 
 ##  Unique Selling Propositions
