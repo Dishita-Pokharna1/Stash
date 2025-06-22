@@ -23,7 +23,7 @@ That’s where we come in.
 ## **Demo Video — See It in Action**
 Watch how STASH turns chaos into opportunity gold.  
 From saving a post to setting a reminder, it’s all smooth, smart, and satisfying.  
- [Click here to watch the demo video on Google Drive](https://drive.google.com/file/d/1JqNEECF7ZbnMluQU8Bin31tgmOSr1USH/view))
+ [Click here to watch the demo video on Google Drive](https://drive.google.com/file/d/1JqNEECF7ZbnMluQU8Bin31tgmOSr1USH/view)
 
 
 ##  Unique Selling Propositions
