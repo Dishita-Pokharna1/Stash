@@ -37,7 +37,7 @@ From saving a post to setting a reminder, it’s all smooth, smart, and satisfyi
 | 🤖 AI Chatbot Integration    | Ask questions, get summaries, or related links instantly                     |
 | 📚 Learning Resource Support | Save blogs, tutorials, and study materials too                              |
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer                | Technology                        |
 |----------------------|-----------------------------------|
@@ -46,7 +46,7 @@ From saving a post to setting a reminder, it’s all smooth, smart, and satisfyi
 | **Database**         | In-memory Python Data Structures  |
 | **Development Tools**| Android Studio, Flutter CLI       |
 
-## 📱 Core Features (in action)
+##  Core Features (in action)
 
 - **Seamless Saving from Social Media**  
   Share LinkedIn posts, reels, or links directly to the app.
@@ -66,15 +66,15 @@ From saving a post to setting a reminder, it’s all smooth, smart, and satisfyi
 - **Resource-Savvy**  
   Save and retrieve blogs, tutorials, videos, and more.
 
-## 🔮 What's Next?
+##  What's Next?
 
-- 🔁 Persistent database integration (e.g., SQLite/Firebase)
-- 📆 Calendar sync for deadlines
-- 💡 ML model fine-tuning for smarter tags
-- 🔗 Social sharing & collaboration features
+-  Persistent database integration (e.g., SQLite/Firebase)
+-  Calendar sync for deadlines
+-  ML model fine-tuning for smarter tags
+-  Social sharing & collaboration features
 
 
-## 📸 Sneak Peek
+##  Sneak Peek
 ###  Dashboard View
 ![Dashboard](https://github.com/Dishita-Pokharna1/Stash/blob/main/dashboard.jpeg)
 
