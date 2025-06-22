@@ -75,6 +75,7 @@ From saving a post to setting a reminder, it’s all smooth, smart, and satisfyi
 
 
 ##  Sneak Peek
+
 ###  Dashboard View
 ![Dashboard](https://github.com/Dishita-Pokharna1/Stash/blob/main/dashboard.jpeg)
 
@@ -87,6 +88,8 @@ From saving a post to setting a reminder, it’s all smooth, smart, and satisfyi
 ###  Smart Sorting Feature
 ![Smart Sort](https://github.com/Dishita-Pokharna1/Stash/blob/main/smart%20sort.jpeg)
 
+###  Share on the app
+![Dashboard](https://github.com/Dishita-Pokharna1/Stash/blob/main/share.png)
 ---
 
 
