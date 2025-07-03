@@ -80,16 +80,16 @@ From saving a post to setting a reminder, it’s all smooth, smart, and satisfyi
 ![Dashboard](https://github.com/Dishita-Pokharna1/Stash/blob/main/image%20(4).jpeg)
 
 ###  Profile and Trends
-![Profile]([https://github.com/Dishita-Pokharna1/Stash/blob/main/profile.jpeg](https://github.com/Dishita-Pokharna1/Stash/blob/main/image.jpeg))
+![Profile](https://github.com/Dishita-Pokharna1/Stash/blob/main/image.jpeg)
 
 ###  Reminder Notifications
-![Reminders]([https://github.com/Dishita-Pokharna1/Stash/blob/main/reminders.jpeg](https://github.com/Dishita-Pokharna1/Stash/blob/main/image%20(1).jpeg))
+![Reminders](https://github.com/Dishita-Pokharna1/Stash/blob/main/image%20(1).jpeg)
 
 ###  Smart Sorting Feature
-![Smart Sort]([https://github.com/Dishita-Pokharna1/Stash/blob/main/smart%20sort.jpeg](https://github.com/Dishita-Pokharna1/Stash/blob/main/image%20(3).jpeg))
+![Smart Sort](https://github.com/Dishita-Pokharna1/Stash/blob/main/image%20(3).jpeg)
 
 ###  Share on the app
-![Dashboard]([https://github.com/Dishita-Pokharna1/Stash/blob/main/share.png](https://github.com/Dishita-Pokharna1/Stash/blob/main/image%20(4).jpeg))
+![Dashboard](https://github.com/Dishita-Pokharna1/Stash/blob/main/image%20(4).jpeg)
 ---
 
 
