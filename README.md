@@ -77,7 +77,7 @@ From saving a post to setting a reminder, it’s all smooth, smart, and satisfyi
 ##  Sneak Peek
 
 ###  Dashboard View
-![Dashboard]([https://github.com/Dishita-Pokharna1/Stash/blob/main/image%20(4).jpeg])
+![Dashboard](https://github.com/Dishita-Pokharna1/Stash/blob/main/image%20(4).jpeg)
 
 ###  Profile and Trends
 ![Profile]([https://github.com/Dishita-Pokharna1/Stash/blob/main/profile.jpeg](https://github.com/Dishita-Pokharna1/Stash/blob/main/image.jpeg))
